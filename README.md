@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Sparkify Churn Prediction project! Here, we delve into the fascinating realm of customer behavior analysis for Sparkify, a fictional music streaming company. Armed with data science techniques and machine learning algorithms, we aim to predict churn and unlock valuable insights into user interactions.
+Welcome to the Sparkify Churn Prediction project! Here, we delve into the realm of customer behavior analysis for Sparkify, a music streaming company. Armed with data science techniques and machine learning algorithms, we aim to predict churn and unlock valuable insights into user interactions.
 
 ## Installation Requirements
 
@@ -31,7 +31,7 @@ Explore the project's intricacies through the following files:
 
 ## Key Insights
 
-Our analysis culminated in profound discoveries outlined in our [Medium Blog Post](https://medium.com/@mohammedyasserattwa/predicting-churn-using-pyspark-f8c20b9bd9a4). Here, we dissect the technical intricacies, revealing the methodologies and insights that drove our project forward. Notably, our Random Forest Classifier emerged as the frontrunner, boasting an impressive F1 score and accuracy metrics, both reaching 0.88.
+Our analysis culminated in profound discoveries outlined in my [Medium Blog Post](https://medium.com/@mohammedyasserattwa/predicting-churn-using-pyspark-f8c20b9bd9a4). Here, we dissect the technical intricacies, revealing the methodologies and insights that drove our project forward. 
 
 ## Acknowledgements
 
