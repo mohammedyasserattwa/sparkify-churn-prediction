@@ -31,7 +31,7 @@ Explore the project's intricacies through the following files:
 
 ## Key Insights
 
-Our analysis culminated in profound discoveries outlined in our [Medium Blog Post](). Here, we dissect the technical intricacies, revealing the methodologies and insights that drove our project forward. Notably, our Random Forest Classifier emerged as the frontrunner, boasting an impressive F1 score and accuracy metrics, both reaching 0.88.
+Our analysis culminated in profound discoveries outlined in our [Medium Blog Post](https://medium.com/@mohammedyasserattwa/predicting-churn-using-pyspark-f8c20b9bd9a4). Here, we dissect the technical intricacies, revealing the methodologies and insights that drove our project forward. Notably, our Random Forest Classifier emerged as the frontrunner, boasting an impressive F1 score and accuracy metrics, both reaching 0.88.
 
 ## Acknowledgements
 
